@@ -3,6 +3,5 @@ using namespace std;
 void main()
 {
 	solve mess
-	add another thing
 	cout<<"hello"<<endl;
 }
