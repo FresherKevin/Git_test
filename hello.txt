@@ -2,5 +2,6 @@
 using namespace std;
 void main()
 {
+	加入一些东西
 	cout<<"hello"<<endl;
 }
