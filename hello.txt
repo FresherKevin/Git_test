@@ -2,6 +2,6 @@
 using namespace std;
 void main()
 {
-	加入一些东西
+	solve mess
 	cout<<"hello"<<endl;
 }
